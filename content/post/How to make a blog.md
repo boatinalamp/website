@@ -11,12 +11,14 @@ To install hugo, i used scoop package manager
 ```scoop install hugo-extended```
 # Creating the server
 To create the servers base files, i just used hugo itself
-```hugo new site MyBlog
+```
+hugo new site MyBlog
 cd MyBlog
 ```
 # Installing themes
 In the root directory of the server, I ran
-```cd themes
+```
+cd themes
 wget https://github.com/jbub/ghostwriter/archive/master.zip
 ```
 I then unzipped (unpacked) the master.zip folder.
@@ -44,6 +46,8 @@ theme = "NAMEOFEXTRACTEDFOLDERINTHEMESFOLDER"
 ```
 # Creating a post
 back in the root directory of the server, type
-```hugo new content/post/NAMEOFPOST.md```
+```
+
+	hugo new content/post/NAMEOFPOST.md```
 replacing NAMEOFPOST with the name of your post
 than open the `SERVERDIRECTORY/content/post/NAMEOFPOST.md file with your editor of choice, mine is notepad, replace `draft = true` with `draft = false and write your first article!
