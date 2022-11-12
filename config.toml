@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = ""
 title = "Vexnity's Blog"
 paginate = 5
 theme = "papermod"
