@@ -1,0 +1,15 @@
+baseurl = "/"
+title = "Vexnity's Blog"
+theme = "ghostwriter"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "Welcome To My Blog"
+    description = "A repository of random information"
+    opengraph = true
+    shareTwitter = false
+    dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+    post = "/:filename/"
