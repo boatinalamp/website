@@ -47,7 +47,7 @@ theme = "NAMEOFEXTRACTEDFOLDERINTHEMESFOLDER"
 # Creating a post
 back in the root directory of the server, type
 ```
-
-	hugo new content/post/NAMEOFPOST.md```
+hugo new content/post/NAMEOFPOST.md
+```
 replacing NAMEOFPOST with the name of your post
-than open the `SERVERDIRECTORY/content/post/NAMEOFPOST.md file with your editor of choice, mine is notepad, replace `draft = true` with `draft = false and write your first article!
+than open the `SERVERDIRECTORY/content/post/NAMEOFPOST.md` file with your editor of choice, mine is notepad, replace `draft = true` with `draft = false and write your first article!
