@@ -73,8 +73,16 @@ tocopen = false
   Content = "A repository of random info"
 
   [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/"
+
+  [[params.socialIcons]]
+  name = "stackoverflow"
+  url = "https://stackoverflow.com"
+
+  [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/boatinalamp"
+  url = "https://github.com/"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
@@ -105,9 +113,21 @@ SiteVerificationTag = "XYZabc"
   keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
+identifier = "categories"
+name = "categories"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
 identifier = "example"
-name = "The Keyword"
-url = "https://blog.google.com"
+name = "example.org"
+url = "https://example.org"
 weight = 30
 
 [markup.highlight]
