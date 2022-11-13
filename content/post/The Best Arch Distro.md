@@ -1,7 +1,7 @@
 ---
 title: "The Best Arch Distro"
 date: 2022-11-13T11:00:15+05:30
-draft: true
+draft: false
 ---
 So you want to install arch linux, and be apart of the arch-btw gang, but you dont know how to, well... this guide is for you.
 # Different Arch Distros
