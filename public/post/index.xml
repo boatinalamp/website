@@ -2,20 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Vexnity&#39;s Blog</title>
-    <link>/post/</link>
+    <link>https://vexnity.netlify.app/post/</link>
     <description>Recent content in Posts on Vexnity&#39;s Blog</description>
     <image>
-      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://vexnity.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://vexnity.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 12 Nov 2022 12:51:42 +0530</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Nov 2022 11:11:47 +0530</lastBuildDate><atom:link href="https://vexnity.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Best Arch Distro</title>
+      <link>https://vexnity.netlify.app/post/the-best-arch-distro/</link>
+      <pubDate>Sun, 13 Nov 2022 11:11:47 +0530</pubDate>
+      
+      <guid>https://vexnity.netlify.app/post/the-best-arch-distro/</guid>
+      <description>So you want to install arch linux, and be apart of the arch-btw gang, but you dont know how to, well&amp;hellip; this guide is for you.
+Different Arch Distros Easy Install (not recommended) Manjaro Garuda Linux Intermediate (recommended) Archcraft (used in this guide) Arco Linux Advanced (The true arch-btw) Arch linux Installing Archcraft Download First visit https://archcraft.io and download the iso file. (I recommend github download) Then Visit https://etcher.io or https://balena.</description>
+    </item>
+    
     <item>
       <title>My First Blog Post</title>
-      <link>/post/how-to-make-a-blog/</link>
+      <link>https://vexnity.netlify.app/post/how-to-make-a-blog/</link>
       <pubDate>Sat, 12 Nov 2022 12:51:42 +0530</pubDate>
       
-      <guid>/post/how-to-make-a-blog/</guid>
+      <guid>https://vexnity.netlify.app/post/how-to-make-a-blog/</guid>
       <description>My First Blog Post While painfully configuring this server.I realised I was missing out on something. CONTENT, I was worried that after all my hard work, I wouldn&amp;rsquo;t have anything to write about. So I set out, desperate for something, anything to write about. I found nothing, so I&amp;rsquo;ll just write about how I created this blog.
 Installing Hugo To install hugo, i used scoop package manager scoop install hugo-extended</description>
     </item>
