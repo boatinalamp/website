@@ -91,7 +91,7 @@ SiteVerificationTag = "XYZabc"
   hiddenInSingle = true
 
   [params.editPost]
-  URL = "https://github.com/<path_to_repo>/content"
+  URL = "https://github.com/boatinalamp/website/content"
   Text = "Suggest Changes"
   appendFilePath = true
 
