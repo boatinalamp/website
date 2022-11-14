@@ -70,7 +70,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "The Chatter"
-  Content = "An effective and condensed blog"
+  Content = "An effective and condensed blog."
 
 #  [[params.socialIcons]]
 #  name = "Github"
