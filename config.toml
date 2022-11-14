@@ -1,5 +1,5 @@
-baseURL = "https://vexnity.netlify.app/"
-title = "Vexnity's Blog"
+baseURL = "https://thechatter.netlify.app/"
+title = "The Chatter"
 paginate = 5
 theme = "papermod"
 enableRobotsTXT = true
