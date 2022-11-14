@@ -40,7 +40,7 @@ showtoc = false
 tocopen = false
 
   [params.assets]
-  favicon = "<link / abs url>"
+  favicon = "</favicon.png>"
   favicon16x16 = "<link / abs url>"
   favicon32x32 = "<link / abs url>"
   apple_touch_icon = "<link / abs url>"
@@ -69,12 +69,12 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Welcome To My Blog 👋"
-  Content = "A repository of random info"
+  Title = "The Chatter"
+  Content = "An effective and condensed blog"
 
-  [[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/boatinalamp"
+#  [[params.socialIcons]]
+#  name = "Github"
+#  url = "https://github.com/boatinalamp/website/"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
@@ -105,8 +105,8 @@ SiteVerificationTag = "XYZabc"
   keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
-identifier = "example"
-name = "The Keyword"
+identifier = "Anotherblog"
+name = "Another blog"
 url = "https://blog.google.com"
 weight = 30
 

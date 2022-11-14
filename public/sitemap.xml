@@ -2,20 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vexnity.netlify.app/post/</loc>
-    <lastmod>2022-11-13T11:11:47+05:30</lastmod>
-  </url><url>
-    <loc>https://vexnity.netlify.app/post/the-best-arch-distro/</loc>
-    <lastmod>2022-11-13T11:11:47+05:30</lastmod>
-  </url><url>
-    <loc>https://vexnity.netlify.app/</loc>
-    <lastmod>2022-11-13T11:11:47+05:30</lastmod>
-  </url><url>
-    <loc>https://vexnity.netlify.app/post/how-to-make-a-blog/</loc>
-    <lastmod>2022-11-12T12:51:42+05:30</lastmod>
-  </url><url>
     <loc>https://vexnity.netlify.app/categories/</loc>
   </url><url>
     <loc>https://vexnity.netlify.app/tags/</loc>
+  </url><url>
+    <loc>https://vexnity.netlify.app/</loc>
   </url>
 </urlset>
