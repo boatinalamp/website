@@ -2,17 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thechatter.netlify.app/post/hi-anay/</loc>
-    <lastmod>2022-11-14T21:09:50+05:30</lastmod>
-  </url><url>
-    <loc>https://thechatter.netlify.app/post/</loc>
-    <lastmod>2022-11-14T21:09:50+05:30</lastmod>
-  </url><url>
-    <loc>https://thechatter.netlify.app/</loc>
-    <lastmod>2022-11-14T21:09:50+05:30</lastmod>
-  </url><url>
     <loc>https://thechatter.netlify.app/categories/</loc>
   </url><url>
     <loc>https://thechatter.netlify.app/tags/</loc>
+  </url><url>
+    <loc>https://thechatter.netlify.app/</loc>
   </url>
 </urlset>
