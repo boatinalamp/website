@@ -3,8 +3,8 @@ title: "Why I Made This Blog"
 date: 2022-11-17T18:20:26+05:30
 draft: false
 ---
-It's rewarding to be able to move readers with your writing. You become even more motivated to complete it. And you gain some influence over others when they react favourably to you.
-You have countless opportunities to inspire people as a blogger.
+It's rewarding to be able to move readers with your writing.
+Thats why I decided to create a blog.
 ![Person writing](/person_Writing.jpg)
 ## To Inspire My audience[^1]
 Writing a blog allows you to express your feelings and air out your judgements, It could also affect the readers life such as:
@@ -13,7 +13,7 @@ Writing a blog allows you to express your feelings and air out your judgements, 
 * Make something lovely.
 * Lend a hand to others.
 
-All of this is possible thanks to the power of a blog.so I try to make it easy to read on your end
+All of this is possible thanks to the power of a blog.
 ## To improve my writing ability
 Starting a blog had made a significant impact on my writing skills, it allowed me to express myself better,
 Starting out was a little strange and awkward at first. However, after I found something to write about, I found that writing became easier as I got into the swing of things. I was able to speak more effectively, and create a style that is entirely my own 😉.
