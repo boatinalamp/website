@@ -7,7 +7,7 @@ It's rewarding to be able to move readers with your writing.
 Thats why I decided to create a blog.
 ![Person writing](/person_Writing.jpg)
 ## To Inspire My audience[^1]
-Writing a blog allows one to express ones feelings and air out ones judgements abut life, It could also affect the readers life such by:
+Writing a blog allows one to express ones feelings and air out ones judgements abut life, It could also affect the readers life by allowing them to:
 * Improve their quality of life.
 * Increase their day's output.
 * Make something lovely.
@@ -16,7 +16,7 @@ Writing a blog allows one to express ones feelings and air out ones judgements a
 All of this is possible thanks to the power of a blog.
 ## To improve my writing ability
 Starting a blog had made a significant impact on my writing skills, it allowed me to express myself better,
-Starting out was a little strange and awkward at first. However, after I found something to write about, I found that writing became easier as I got into the swing of things. I was able to speak more effectively, and create a style that is entirely my own 😉.
+Starting out was a little strange and awkward at first. However, after I found something to write about, I found that writing became easier as I got into the swing of things. I was able to speak more effectively, and create a style that is entirely my own (mostly).
 I gained a solid understanding of how hard it was to write a blog. It challenged my creativity and encouraged me to write more topics.
 Win-Win!
 ## To confront your fears
