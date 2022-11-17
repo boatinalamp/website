@@ -6,7 +6,7 @@ draft: false
 It's rewarding to be able to move readers with your writing. You become even more motivated to complete it. And you gain some influence over others when they react favourably to you.
 You have countless opportunities to inspire people as a blogger.
 ![Person writing](/person_Writing.jpg)
-## To Inspire My audience
+## To Inspire My audience[^1]
 Writing a blog allows you to express your feelings and air out your judgements, It could also affect the readers life such as:
 * Improve their quality of life.
 * Increase their day's output.
@@ -34,3 +34,4 @@ Consider both sides of the argument and weigh them against your own personality,
 
 You'll be the one doing the work, and you'll be the one reaping the benefits in the end.
 Remember: **Blogging is a marathon. Not a sprint.**
+[^1]: Heavily Inspired from [this blog.](https://bloggingwizard.com/reasons-to-start-a-blog/)
