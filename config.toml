@@ -15,10 +15,10 @@ minifyOutput = true
 
 [params]
 env = "production"
-title = "ExampleSite"
-description = "ExampleSite description"
+title = "The Chatter"
+description = "The Chatter Blog"
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
-author = "Me"
+author = "Pranav Thandassery"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
@@ -104,11 +104,11 @@ SiteVerificationTag = "XYZabc"
   minMatchCharLength = 0
   keys = [ "title", "permalink", "summary", "content" ]
 
-[[menu.main]]
-identifier = "Anotherblog"
-name = "Another blog"
-url = "https://blog.google.com"
-weight = 30
+#[[menu.main]]
+#identifier = "anay anany"
+#name = "Another blog"
+#url = "https://blog.google.com"
+#weight = 30
 
 [markup.highlight]
 noClasses = false
