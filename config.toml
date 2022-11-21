@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://thechatter.netlify.app"
 title = "The Chatter"
 paginate = 5
 theme = "papermod"
