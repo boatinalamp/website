@@ -70,7 +70,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "The Chatter"
-  Content = "A blog thats solely run to inform and communicate, made by Pranav Thandassery using HU(GO)CMS and some basic html."
+  Content = "A blog thats solely run to depict day-to-day thoughts and feelings. Made By Pranav Thandassery using HUGO and netlify"
 
 #  [[params.socialIcons]]
 #  name = "Github"
