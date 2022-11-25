@@ -1,12 +1,8 @@
 ---
-title: "My passtimes"
+title: "My leisure-times"
 date: 2022-11-25
 draft: false
 ---
-<HTML>
-  <HEAD>
-    <title>My leasure time activities</title>
-    <body background="AQUA" text="brown"
-**My favorite pass times**
-* Writing my blog
+### My favorit passtimes 
 * Gaming with my friends
+* Writing my blog
