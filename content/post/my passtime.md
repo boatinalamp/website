@@ -1,7 +1,7 @@
 ---
 title: "My leisure-times"
 date: 2022-11-25
-draft: false
+draft: true
 ---
 ### My favorite leisure-times
 * Gaming with my friends
