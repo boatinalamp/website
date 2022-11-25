@@ -1,5 +1,5 @@
-baseURL = "https://thechatter.netlify.app"
-title = "The Chatter"
+baseURL = "https://anaypod.netlify.app"
+title = "Anay Bilwalkers Podcast"
 paginate = 5
 theme = "papermod"
 enableRobotsTXT = true
@@ -15,8 +15,8 @@ minifyOutput = true
 
 [params]
 env = "production"
-title = "The Chatter"
-description = "The Chatter Blog"
+title = "Anay Bilwalkers Podcast"
+description = "A podcastg"
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
 author = "Pranav Thandassery"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
