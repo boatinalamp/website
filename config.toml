@@ -1,5 +1,5 @@
-baseURL = "https://thechatter.netlify.app"
-title = "The Chatter"
+baseURL = "https://anaypod.netlify.app"
+title = "Anay Biwalkars Podcast"
 paginate = 5
 theme = "papermod"
 enableRobotsTXT = true
@@ -15,8 +15,8 @@ minifyOutput = true
 
 [params]
 env = "production"
-title = "The Chatter"
-description = "The Chatter Blog"
+title = "Anay Biwalkars Podcast"
+description = "A podcastg"
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
 author = "Pranav Thandassery"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
@@ -69,8 +69,8 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "The Chatter"
-  Content = "A blog thats solely run to depict day-to-day thoughts and feelings. Made By Pranav Thandassery using HUGO and netlify"
+  Title = "Anay Biwalkars podcast"
+  Content = ""
 
 #  [[params.socialIcons]]
 #  name = "Github"
@@ -91,7 +91,7 @@ SiteVerificationTag = "XYZabc"
   hiddenInSingle = true
 
   [params.editPost]
-  URL = "https://github.com/boatinalamp/website/content"
+  URL = "https://github.com/boatinalamp/website/"
   Text = "Suggest Changes"
   appendFilePath = true
 
