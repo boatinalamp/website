@@ -112,3 +112,5 @@ SiteVerificationTag = "XYZabc"
 
 [markup.highlight]
 noClasses = false
+disqusShortname = "anaypod"
+
