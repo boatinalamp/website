@@ -16,7 +16,7 @@ minifyOutput = true
 [params]
 env = "production"
 title = "Anay Biwalkars Podcast"
-description = "A podcastg"
+description = "A podcast"
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
 author = "Pranav Thandassery"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
