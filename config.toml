@@ -16,9 +16,9 @@ minifyOutput = true
 [params]
 env = "production"
 title = "Anay Biwalkars Podcast"
-description = "A podcastg"
+description = "Answering all your 3am questions"
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
-author = "Pranav Thandassery"
+author = "Pranav Thandassery / Anay Biwalkar"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
@@ -105,8 +105,8 @@ SiteVerificationTag = "XYZabc"
   keys = [ "title", "permalink", "summary", "content" ]
 
 #[[menu.main]]
-#identifier = "anay anany"
-#name = "Another blog"
+#identifier = "anay"
+#name = "Another Blog"
 #url = "https://blog.google.com"
 #weight = 30
 
