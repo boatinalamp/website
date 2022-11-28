@@ -9,14 +9,32 @@
       <link>https://anaypod.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 25 Nov 2022 22:23:33 +0530</lastBuildDate><atom:link href="https://anaypod.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Nov 2022 19:50:28 +0530</lastBuildDate><atom:link href="https://anaypod.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diary of a Wimpy Kid Book Review</title>
+      <link>https://anaypod.netlify.app/post/diary-of-a-wimpy-kid-book-review/</link>
+      <pubDate>Mon, 28 Nov 2022 19:50:28 +0530</pubDate>
+      
+      <guid>https://anaypod.netlify.app/post/diary-of-a-wimpy-kid-book-review/</guid>
+      <description> </description>
+    </item>
+    
     <item>
       <title>Pilot Episode</title>
       <link>https://anaypod.netlify.app/post/pilot-episode/</link>
       <pubDate>Fri, 25 Nov 2022 22:23:33 +0530</pubDate>
       
       <guid>https://anaypod.netlify.app/post/pilot-episode/</guid>
-      <description> </description>
+      <description>Hey anay this is pure html so u need to know html to do this</description>
+    </item>
+    
+    <item>
+      <title>html test</title>
+      <link>https://anaypod.netlify.app/post/html/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://anaypod.netlify.app/post/html/</guid>
+      <description>Stop deforestation STop deforestation lollololYour browser does not support the audio element.</description>
     </item>
     
   </channel>
