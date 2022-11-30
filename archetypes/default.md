@@ -2,5 +2,6 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
+summary: 'summary of post'
 ---
-![Image](/image.jpg)
+![Image name](https://image.com/image.jpg)
