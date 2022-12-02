@@ -1,4 +1,4 @@
-baseURL = "https://thechatter.netlify.app"
+baseURL = "https://thechatter.ml"
 title = "The Chatter"
 paginate = 5
 theme = "papermod"
@@ -91,7 +91,7 @@ SiteVerificationTag = "XYZabc"
   hiddenInSingle = true
 
   [params.editPost]
-  URL = "https://github.com/boatinalamp/website/content"
+  URL = "https://github.com/boatinalamp/website/tree/main/content/"
   Text = "Suggest Changes"
   appendFilePath = true
 
