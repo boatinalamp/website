@@ -1,4 +1,4 @@
-baseURL = "https://anaypod.netlify.app"
+baseURL = "https://cpod.ml"
 title = "Anay Biwalkars Podcast"
 paginate = 5
 theme = "papermod"
