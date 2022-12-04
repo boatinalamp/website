@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "75ecef3f2f1557f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "805540f6192de53f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ebbd13ee497ba97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extreme Sports.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3bc76d10167e84d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6b05bbab6de25ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f873bdfb9bf73101",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11bdf8cbe2f4e085",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b5f2d53f076ce2d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3de9c92bee213373",
+    "type": "split",
+    "children": [
+      {
+        "id": "581f105f63635217",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "680d285c18de8f57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Extreme Sports.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dcf87e13e97ad622",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Extreme Sports.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb97d18eb5882125",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "249a785bf1de08af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Extreme Sports.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5ebbd13ee497ba97",
+  "lastOpenFiles": [
+    "Extreme Sports.md",
+    "Extreme Sports.md"
+  ]
+}
