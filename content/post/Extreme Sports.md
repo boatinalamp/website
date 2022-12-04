@@ -1,3 +1,8 @@
+---
+title: "Extreme Sports"
+date: 2022-11-25
+draft: false
+---
 # Are Extreme sports dangerous? And do they deserve to be prohibited?
 ### What are extreme sports?
 Extreme sports, also commonly referred to as action sports, are competitive sports that are characterized by high risk. Skateboarding, snowboarding, freestyle skiing, and mountain biking are the sports that are most frequently included in this category.
