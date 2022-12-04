@@ -104,11 +104,11 @@ SiteVerificationTag = "XYZabc"
   minMatchCharLength = 0
   keys = [ "title", "permalink", "summary", "content" ]
 
-#[[menu.main]]
-#identifier = "anay"
-#name = "Another Blog"
-#url = "https://blog.google.com"
-#weight = 30
+[[menu.main]]
+identifier = "anay"
+name = "Pranav Thandassery's Blog"
+url = "https://thechatter.ml"
+weight = 30
 
 [markup.highlight]
 noClasses = false
