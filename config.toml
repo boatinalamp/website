@@ -1,5 +1,5 @@
 baseURL = "https://cpod.ml"
-title = "Anay Biwalkars Podcast"
+title = "Anay Biwalkar's Podcast"
 paginate = 5
 theme = "papermod"
 enableRobotsTXT = true
@@ -15,7 +15,7 @@ minifyOutput = true
 
 [params]
 env = "production"
-title = "Anay Biwalkars Podcast"
+title = "Anay Biwalkar's Podcast"
 description = "Answering all your 3am questions"
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
 author = "Pranav Thandassery / Anay Biwalkar"
@@ -69,7 +69,7 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Anay Biwalkars podcast"
+  Title = "Anay Biwalkar's podcast"
   Content = "Answering all of your 3 AM questions."
 
 #  [[params.socialIcons]]
@@ -106,7 +106,7 @@ SiteVerificationTag = "XYZabc"
 
 [[menu.main]]
 identifier = "anay"
-name = "Pranav Thandassery's Blog"
+name = "Pranav's Blog"
 url = "https://thechatter.ml"
 weight = 30
 
