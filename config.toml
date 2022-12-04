@@ -70,7 +70,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Anay Biwalkars podcast"
-  Content = ""
+  Content = "Answering all of your 3 AM questions."
 
 #  [[params.socialIcons]]
 #  name = "Github"
