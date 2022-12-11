@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extreme Sports.md",
+                "file": "Why swimming is good for you.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extreme Sports.md",
+                "file": "Why swimming is good for you.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extreme Sports.md",
+                "file": "Why swimming is good for you.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extreme Sports.md"
+                "file": "Why swimming is good for you.md"
               }
             }
           }
@@ -138,7 +138,6 @@
   },
   "active": "5ebbd13ee497ba97",
   "lastOpenFiles": [
-    "Extreme Sports.md",
     "Extreme Sports.md"
   ]
 }

@@ -26,10 +26,7 @@ Often people achieve great feats only by assuming a tremendous risk for themselv
 
 Many extreme sports allow one to feel the freedom to challenge themselves, physically and psychologically.
 ### Do they deserve to be banned?
-A lot of people believe extreme sports should be banned. Yet dangerous sports are far more popular than ever.
-This is because, as technology advances, safety progresses with it. The process of accomplishing an extreme sport still remains the only way to experience a heart-pounding thrill.
 
-On the other hand, some individuals believe that risky sports should be outlawed due to the hazards they provide to society.
 ### In Conclusion
 Even though engaging in extreme sports could be very dangerous, I still believe they should be pursued with well-established safety guidelines and with caution.
 
