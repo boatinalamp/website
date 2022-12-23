@@ -70,8 +70,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "The Chatter"
-  Content = "A blog thats solely run to depict day-to-day thoughts and feelings. Made By Pranav Thandassery using HUGO and netlify"
-
+  Content = "I run a blog that is solely dedicated to sharing my daily thoughts and feelings. I use the HUGO platform to build my blog and host it on Netlify. It serves as a personal outlet for me to document and share my innermost thoughts and emotions. My blog doesn't have a specific focus or theme, but it is a place for me to express myself and share my personal experiences with others."
 #  [[params.socialIcons]]
 #  name = "Github"
 #  url = "https://github.com/boatinalamp/website/"
