@@ -1,30 +1,15 @@
 ---
-title: "Why Swimming Is Good for You"
-date: 2022-12-11T18:28:03+05:30
+title: "Why Swimming Is Good for You; Rewrite"
+date: 2023-01-25T19:25:53+05:30
 draft: false
-summary: Is swimming good for you? and how do you get started?
+summary: 'Have you ever considered why so many people choose swimming as their go-to form of excercise?'
 ---
-![Guy Swimming](https://images.pexels.com/photos/1263348/pexels-photo-1263348.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-If you haven't gone swimming at least once in your life, you have no idea what you're missing out on.
-
-Swimming builds endurance and increases your overall stamina and height. On top of all this, it makes you taller too!
-Because of the way swimming works, you end up using muscles that you didn't even know existed. Swimming also helps you tone muscles and build up your general balance.
-Swimming is also believed to alleviate stress or improve flexibility, coordination, and balance.
-
-A lot of people use swimming as muscle therapy for their various injuries, like my dad, who had an ACL tear and used to swim with me as exercise. 
-# Getting started with swimming
-
-Getting started with swimming is easy, all you need are goggles, a cap, and swimming trunks.
-It's a sport for all ages, whether you know how to swim or not.
-And always remember to make sure the environment you're in is completely safe.
-
-I would recommend going to a swim academy if it is your first time swimming, as they would have lifeguards and coaches.
-
-It's also pretty easy to get cut while swimming, so be mindful of your surroundings.
-Incidentally, my dad got his ACL knee-deep on a beach.
-A lot of people do find swimming a perfect way to relax.
-
-# If it's your first time swimming
-
-If it's your first time swimming, I would recommend you let go of your fear and just jump into the pool.
-I also would try to just get a hang of how the water feels.
+This is just a short paragraph for a school project of mine. Not really meant to be too long.
+# Why swimming is good for you
+Have you ever wondered why so many people choose swimming as their go-to form of exercise?
+Well, Swimming has numerous benefits for your body, ranging from cardiovascular fitness to stretching muscles you've never used before as you propel yourself through the water
+![Person Swimming](https://images.pexels.com/photos/711187/pexels-photo-711187.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+You'll find swimming to be an excellent way to improve your fitness, as it's a high-gain activity that exercises your whole body, from your arms and legs to your core, and unlike most other forms of exercise, swimming can keep you fit without putting much strain on your joints!
+Furthermore, according to surveys, most swimmers feel that their mood is greatly improved after swimming. 
+If you start incorporating swimming into your routine, you'll see and feel the benefits for yourself, and you'll be more confident, happier, and healthier.
+So, make a splash in your life and start swimming today!
