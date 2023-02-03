@@ -1,113 +1,103 @@
-baseURL = "https://thechatter.netlify.app"
-title = "The Chatter"
+baseurl = "/"
+languageCode = "en-us"
+# Add it only if you keep the theme in the `themes` directory.
+# Remove it if you use the theme as a remote Hugo Module.
+theme = 'terminal'
 paginate = 5
-theme = "papermod"
-enableRobotsTXT = true
-buildDrafts = false
-buildFuture = false
-buildExpired = false
-googleAnalytics = "UA-123-45"
-pygmentsUseClasses = true
-
-[minify]
-disableXML = true
-minifyOutput = true
 
 [params]
-env = "production"
-title = "The Chatter"
-description = "The Chatter Blog"
-keywords = [ "Blog", "Portfolio", "PaperMod" ]
-author = "Pranav Thandassery"
-images = [ "<link or path of image for opengraph, twitter-cards>" ]
-DateFormat = "January 2, 2006"
-defaultTheme = "auto"
-disableThemeToggle = false
-ShowReadingTime = true
-ShowShareButtons = true
-ShowPostNavLinks = true
-ShowBreadCrumbs = true
-ShowCodeCopyButtons = false
-ShowWordCount = true
-ShowRssButtonInSectionTermList = true
-UseHugoToc = true
-disableSpecial1stPost = false
-disableScrollToTop = false
-comments = false
-hidemeta = false
-hideSummary = false
-showtoc = false
-tocopen = false
+  # dir name of your main content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "post"
 
-  [params.assets]
-  favicon = "</favicon.png>"
-  favicon16x16 = "<link / abs url>"
-  favicon32x32 = "<link / abs url>"
-  apple_touch_icon = "<link / abs url>"
-  safari_pinned_tab = "<link / abs url>"
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "red"
 
-  [params.label]
-  text = "Home"
-  icon = "/apple-touch-icon.png"
-  iconHeight = 35
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 2
 
-  [params.profileMode]
-  enabled = false
-  title = "ExampleSite"
-  subtitle = "This is subtitle"
-  imageUrl = "<img location>"
-  imageWidth = 120
-  imageHeight = 120
-  imageTitle = "my image"
+  # show selector to switch language
+  showLanguageSelector = false
 
-    [[params.profileMode.buttons]]
-    name = "Posts"
-    url = "posts"
+  # set theme to full screen width
+  fullWidthTheme = false
 
-    [[params.profileMode.buttons]]
-    name = "Tags"
-    url = "tags"
+  # center theme with default width
+  centerTheme = false
 
-  [params.homeInfoParams]
-  Title = "The Chatter"
-  Content = "I run a blog that is solely dedicated to sharing my daily thoughts and feelings. I use the HUGO platform to build my blog and host it on Netlify. It serves as a personal outlet for me to document and share my innermost thoughts and emotions. My blog doesn't have a specific focus or theme, but it is a place for me to express myself and share my personal experiences with others."
-#  [[params.socialIcons]]
-#  name = "Github"
-#  url = "https://github.com/boatinalamp/website/"
+  # if your resource directory contains an image called `cover.(jpg|png|webp)`,
+  # then the file will be used as a cover automatically.
+  # With this option you don't have to put the `cover` param in a front-matter.
+  autoCover = true
 
-[params.analytics.google]
-SiteVerificationTag = "XYZabc"
+  # set post to show the last updated
+  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+  showLastUpdated = false
 
-[params.analytics.bing]
-SiteVerificationTag = "XYZabc"
+  # set a custom favicon (default is a `themeColor` square)
+  # favicon = "C:\Users\chewie\Documents\blender\thechatterredner.ico"
 
-[params.analytics.yandex]
-SiteVerificationTag = "XYZabc"
+  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
+  # updatedDatePrefix = "Updated"
 
-  [params.cover]
-  hidden = true
-  hiddenInList = true
-  hiddenInSingle = true
+  # set all headings to their default size (depending on browser settings)
+  # oneHeadingSize = true # default
 
-  [params.editPost]
-  URL = "https://github.com/boatinalamp/website/tree/main/content/"
-  Text = "Suggest Changes"
-  appendFilePath = true
+  # whether to show a page's estimated reading time
+  # readingTime = true # default
 
-  [params.fuseOpts]
-  isCaseSensitive = false
-  shouldSort = true
-  location = 0
-  distance = 1_000
-  threshold = 0.4
-  minMatchCharLength = 0
-  keys = [ "title", "permalink", "summary", "content" ]
+  # whether to show a table of contents
+  # can be overridden in a page's front-matter
+  # Toc = false # default
 
-#[[menu.main]]
-#identifier = "anay anany"
-#name = "Another blog"
-#url = "https://blog.google.com"
-#weight = 30
+  # set title for the table of contents
+  # can be overridden in a page's front-matter
+  # TocTitle = "Table of Contents" # default
 
-[markup.highlight]
-noClasses = false
+
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = ""
+  site = ""
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "The Chatter"
+    subtitle = 'A blog made by Pranav Thandassery. Basically a collection of my random thoughts'
+    owner = "Pranav"
+    keywords = ""
+    copyright = "Pranav"
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+    minuteReadingTime = "min read"
+    words = "words"
+
+    [languages.en.params.logo]
+      logoText = "The Chatter"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "showcase"
+        name = "Showcase"
+        url = "/showcase"
+
+[module]
+  # In case you would like to make changes to the theme and keep it locally in you repository,
+  # uncomment the line below (and correct the local path if necessary).
+  # --
+  # replacements = "github.com/panr/hugo-theme-terminal -> themes/terminal"
+[[module.imports]]
+  path = 'C:\\Users\\chewie\\terminal\\themes'
