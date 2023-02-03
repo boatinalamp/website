@@ -2,6 +2,11 @@
 title: "Diary of a Wimpy Kid Diper Överlode Book Review"
 date: 2022-11-28T19:50:28+05:30
 draft: false
+cover:
+    image: "https://i.pinimg.com/originals/d4/ba/e1/d4bae1e6e5a7b47827e477093b15525c.jpg#center"
+    alt: "picture of book"
+    caption: ""
+    relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 ![Image](https://rukminim1.flixcart.com/image/416/416/xif0q/regionalbooks/g/n/p/diary-of-a-wimpy-kid-diper-overload-by-jeff-kinney-english-original-imagjtgm98btksgz.jpeg)
 Im sure all of you can guess by the title, that there's alot of potty humor in this. I mean, Loded Diper has been an iconic name for as long as I can remember

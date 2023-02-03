@@ -1,5 +1,5 @@
-baseURL = "https://thechatter.netlify.app"
-title = "The Chatter"
+baseURL = "/"
+title = "Vexnity's Blog"
 paginate = 5
 theme = "papermod"
 enableRobotsTXT = true
@@ -15,10 +15,10 @@ minifyOutput = true
 
 [params]
 env = "production"
-title = "The Chatter"
-description = "The Chatter Blog"
+title = "ExampleSite"
+description = "ExampleSite description"
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
-author = "Pranav Thandassery"
+author = "Me"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
@@ -40,7 +40,7 @@ showtoc = false
 tocopen = false
 
   [params.assets]
-  favicon = "</favicon.png>"
+  favicon = "<link / abs url>"
   favicon16x16 = "<link / abs url>"
   favicon32x32 = "<link / abs url>"
   apple_touch_icon = "<link / abs url>"
@@ -69,11 +69,20 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "The Chatter"
-  Content = "I run a blog that is solely dedicated to sharing my daily thoughts and feelings. I use the HUGO platform to build my blog and host it on Netlify. It serves as a personal outlet for me to document and share my innermost thoughts and emotions. My blog doesn't have a specific focus or theme, but it is a place for me to express myself and share my personal experiences with others."
-#  [[params.socialIcons]]
-#  name = "Github"
-#  url = "https://github.com/boatinalamp/website/"
+  Title = "Welcome To My Blog 👋"
+  Content = "A repository of random info"
+
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/"
+
+  [[params.socialIcons]]
+  name = "stackoverflow"
+  url = "https://stackoverflow.com"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
@@ -90,7 +99,7 @@ SiteVerificationTag = "XYZabc"
   hiddenInSingle = true
 
   [params.editPost]
-  URL = "https://github.com/boatinalamp/website/tree/main/content/"
+  URL = "https://github.com/<path_to_repo>/content"
   Text = "Suggest Changes"
   appendFilePath = true
 
@@ -103,11 +112,23 @@ SiteVerificationTag = "XYZabc"
   minMatchCharLength = 0
   keys = [ "title", "permalink", "summary", "content" ]
 
-#[[menu.main]]
-#identifier = "anay anany"
-#name = "Another blog"
-#url = "https://blog.google.com"
-#weight = 30
+[[menu.main]]
+identifier = "categories"
+name = "categories"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "example"
+name = "example.org"
+url = "https://example.org"
+weight = 30
 
 [markup.highlight]
 noClasses = false
